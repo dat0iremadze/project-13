@@ -1,0 +1,99 @@
+@mixin cont {
+    color: #000;
+    font-family: Roboto;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    cursor: pointer;
+}
+
+@mixin idk-1 {
+    width: 120px;
+    height: 28px;
+    color: #000;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 126px;
+    margin-top: 50px;
+}
+
+@mixin imgg {
+    position: relative;
+    width: 362px;
+    height: 186px;
+    border-radius: 5px 5px 0px 0px;
+}
+
+@mixin pp {
+    width: 184px;
+    height: 23px;
+    position: absolute;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    top: 24%;
+    left: 216px;
+}
+
+@mixin hh {
+    color: #000;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-left: 39.5px;
+    margin-top: 60px;
+}
+
+@mixin imggg {
+    position: relative;
+    width: 758px;
+    height: 430px;
+    border-radius: 5px;
+    margin-bottom: 40px;
+}
+
+@mixin p-1 {
+    position: absolute;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    top: 112.4%;
+    left: 29.3%;
+}
+
+@mixin simg {
+    width: 758px;
+    height: 430px;
+    border-radius: 5px;
+    margin-top: 40px;
+    margin-left: 39.5px;
+}
+
+@mixin pmg {
+    width: 362px;
+    height: 212px;
+    margin-bottom: 70px;
+    margin-top: 40px;
+    margin-right: 180px;
+}
+
+@mixin lii {
+    color: #818687;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
